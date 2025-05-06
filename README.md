@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer — Android Developer — Part Time Gamer
+Full Stack Web Developer — Mobile Developer — Part Time Gamer
 
 
 ## 🌐 Socials:
